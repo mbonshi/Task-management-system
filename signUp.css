@@ -1,0 +1,51 @@
+h1
+{
+    margin-bottom:8% ;
+    color: blue;
+    text-align: center;
+    font-family:"Fredoka one " cursive;
+    letter-spacing: normal;
+}
+p{
+    margin-bottom:5% ;
+    margin-bottom: 5%;
+    width: 100%;
+    border-bottom: 1px solid black;
+    text-align: center;
+    line-height: 0.1em;
+}
+
+p span{
+
+    background:brown;
+    padding: 0 10px;
+}
+
+input{
+    margin-bottom: 3%;
+}
+
+input:last-of-type{
+    margin-bottom: 0;
+}
+
+input,button
+{
+    padding: 3%;
+    width: 100%;
+}
+.login-container{
+
+    background-color: white;
+   
+
+}
+
+
+
+
+
+
+
+
+
